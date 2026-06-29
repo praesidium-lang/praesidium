@@ -1,4 +1,7 @@
 # Praesidium pre-alpha
+
+[![Praesidium Build Status](https://github.com/praesidium-lang/praesidium/actions/workflows/haskell.yml/badge.svg?branch=main)](https://github.com/praesidium-lang/praesidium/actions/workflows/haskell.yml)
+
 *A Language based on the pure and deterministic form of Linear Dependent Types and the Functional Paradigm.*
 
 WARNING: This language is being actively redesigned and is constantly changing, please do not use it for any real software for now.
