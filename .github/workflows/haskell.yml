@@ -15,8 +15,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: haskell-actions/setup@v2
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+    - uses: haskell-actions/setup@58be2b9bbc84559bc01f4e2138804d4a78e04fe4
       with:
         ghc-version: '9.6.7'
         cabal-version: '3.14.2'
